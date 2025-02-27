@@ -60,6 +60,9 @@ main strong{
     color: var(--cor1);
     font-weight: bold;
 }
+strong.cor{
+    color: white;
+}
 main a{
     text-decoration: none;
     font-weight: bolder;
