@@ -188,8 +188,14 @@ aside ul{
     list-style-position: inside;
     columns: 2;
     list-style-type: '\2714\00A0\00A0';
+    
 
 
+}
+
+aside li{
+    text-decoration: none;
+    font-weight: bold;
 }
 aside h3{
     background-color: var(--cor4);
